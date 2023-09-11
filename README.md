@@ -4,7 +4,7 @@ This is a repository containing the code of our submission to ArgMining @ EMNLP 
 
 The task is constructed in three conditions: [full](pragtag/full), [low](pragtag/low), and [zero](pragtag/zero). Each subdirectory has its own README.md which instructs how to conduct experiments. Visit [pragtag](pragtag) folder for further details.
 
-There are some data that are universally shared across all conditions, which are stored in [public_dat](pragtag/public_dat).
+There are some data that are universally shared across all conditions, which are stored in [public_dat](pragtag/public_dat). Please check `Data` section below for specific instructions.
 
 Besides data augmentation strategies, finetuning, predicting, and evaluating are performed at seperate directories.
 
@@ -52,8 +52,8 @@ Below are the links to obtain the dataset.
 
 ### Public Data
 
-Gain access to the data from [Workshop page](https://codalab.lisn.upsaclay.fr/competitions/13334#learn_the_details) and rename them accordingly.
+Gain access to the data from [workshop page](https://codalab.lisn.upsaclay.fr/competitions/13334#learn_the_details) and rename them accordingly.
 
 ### Auxiliary Data
 
-Click on the link provided in the shared task and request the data. After confirmation (requires prior registration with the shared task), you will receive the auxiliary data. For conveniently loading it, checkout the associated (github repo)[https://github.com/UKPLab/nlpeer].
+Click on the link provided in the shared task and request the data. After confirmation (requires prior registration with the shared task), you will receive the auxiliary data. For conveniently loading it, checkout the associated [github repo](https://github.com/UKPLab/nlpeer).
