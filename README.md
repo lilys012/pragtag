@@ -44,16 +44,16 @@ python3 main.py <input_path> <output_path>
 
 Here, the input path should point to a directory containing a folder "ref" with the true labels (or training data with labels) under the name `test_labels.json`, and a folder res with the predicted labels (under `predicted.json`).
 
-# Data
+### Data
 
 Please rename the dataset and place it where described in the respective README.md.
 
-Below are the links to obtain the dataset.
+Below are links to obtain the dataset.
 
-### Public Data
+#### Public Data
 
 Gain access to the data from [workshop page](https://codalab.lisn.upsaclay.fr/competitions/13334#learn_the_details) and rename them accordingly.
 
-### Auxiliary Data
+#### Auxiliary Data
 
 Click on the link provided in the shared task and request the data. After confirmation (requires prior registration with the shared task), you will receive the auxiliary data. For conveniently loading it, checkout the associated [github repo](https://github.com/UKPLab/nlpeer).
